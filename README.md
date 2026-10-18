@@ -19,7 +19,7 @@ Encoding changes how data is represented. It does not encrypt data or provide co
 
 ## Download
 
-Download the compiled binaries from the [GitHub Releases page](https://github.com/animesh11206/Project-1/releases). No compiler is needed to run the packaged tool.
+Download the compiled binaries from the [GitHub Releases page](https://github.com/animesh11206/wordcoder/releases). No compiler is needed to run the packaged tool.
 
 | Platform | Release asset |
 | --- | --- |
@@ -53,8 +53,8 @@ For the encoding examples, place your own nonempty `words.txt` in the extracted 
 You need a C++17 compiler and standard library with `std::filesystem` support. The project uses the C++ standard library and has no third-party library dependencies.
 
 ```sh
-git clone https://github.com/animesh11206/Project-1.git
-cd Project-1
+git clone https://github.com/animesh11206/wordcoder.git
+cd wordcoder
 ```
 
 ### Windows — PowerShell and MinGW-w64
